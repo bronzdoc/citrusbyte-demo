@@ -1,4 +1,4 @@
-# Citrusbyte test
+# Citrusbyte test [![Build Status](https://travis-ci.org/bronzdoc/citrusbyte-demo.svg?branch=master)](https://travis-ci.org/bronzdoc/citrusbyte-demo)
 
 A little demo for Citrusbyte, implementation of the flatten method
 
